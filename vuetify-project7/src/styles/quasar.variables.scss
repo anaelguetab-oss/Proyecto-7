@@ -1,0 +1,34 @@
+// Quasar SCSS variables
+// https://quasar.dev/style/sass-scss-variables
+
+// Brand colors
+$primary: #1976D2;
+$secondary: #26A69A;
+$accent: #9C27B0;
+$dark: #1D1D1D;
+$dark-page: #121212;
+$positive: #21BA45;
+$negative: #DB2828;
+$info: #31CCEC;
+$warning: #F2711C;
+
+// Spacing
+$space-xs: 4px;
+$space-sm: 8px;
+$space-md: 16px;
+$space-lg: 24px;
+$space-xl: 32px;
+$space-2xl: 48px;
+
+// Border radius
+$generic-border-radius: 4px;
+
+// Font family
+$fontFamily: 'Roboto', sans-serif;
+
+// Responsive breakpoints
+$breakpoint-xs: 0;
+$breakpoint-sm: 600px;
+$breakpoint-md: 1024px;
+$breakpoint-lg: 1440px;
+$breakpoint-xl: 1920px;
